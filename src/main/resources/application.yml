@@ -1,0 +1,3 @@
+debug: true
+
+spring.jwt.secret: testjwtsecreet1234testjwtsecreet1234
